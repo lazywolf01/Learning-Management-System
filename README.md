@@ -42,7 +42,7 @@ Here are some screenshots of the Learning Management System:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Divyanshi2408/Learning-Management-System.git
+git clone https://github.com/lazywolf01/Learning-Management-System.git
 cd lms-project
 ```
 ### 2. Install Server Dependencies
